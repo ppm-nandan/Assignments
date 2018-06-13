@@ -1,0 +1,13 @@
+{
+  "name": "@nandan/package.json",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "repository": "https://github.com/ppm-nandan/Assignments"
+}
